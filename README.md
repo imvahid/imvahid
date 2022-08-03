@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/-LUMEN-f4645f?style=for-the-badge&logo=lumen&logoColor=f4645f&labelColor=282828">
     <img src="https://img.shields.io/badge/-MySQL-3e6e93?style=for-the-badge&logo=MySQL&logoColor=3e6e93&labelColor=282828">
     <img src="https://img.shields.io/badge/-Linux-98b982?style=for-the-badge&logo=Linux&logoColor=98b982&labelColor=282828">
-    <br />
     <img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=2496ed&labelColor=282828">
     <img src="https://img.shields.io/badge/-Redis-a51809?style=for-the-badge&logo=Redis&logoColor=a51809&labelColor=282828">
     <img src="https://img.shields.io/badge/-RabbitMQ-ff6600?style=for-the-badge&logo=RabbitMQ&logoColor=ff6600&labelColor=282828">
@@ -56,5 +55,3 @@
 </p>
 
 </div>
-
------
