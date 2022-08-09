@@ -16,22 +16,24 @@
 -----
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Tailwindcss-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=07b6d5&labelColor=282828">
-    <img src="https://img.shields.io/badge/-PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=7377ad&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Laravel-f9322c?style=for-the-badge&logo=Laravel&logoColor=f9322c&labelColor=282828">
-    <img src="https://img.shields.io/badge/-LUMEN-f4645f?style=for-the-badge&logo=lumen&logoColor=f4645f&labelColor=282828">
-    <img src="https://img.shields.io/badge/-MySQL-3e6e93?style=for-the-badge&logo=MySQL&logoColor=3e6e93&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Linux-98b982?style=for-the-badge&logo=Linux&logoColor=98b982&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=2496ed&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Redis-a51809?style=for-the-badge&logo=Redis&logoColor=a51809&labelColor=282828">
-    <img src="https://img.shields.io/badge/-RabbitMQ-ff6600?style=for-the-badge&logo=RabbitMQ&logoColor=ff6600&labelColor=282828">
-    <img src="https://img.shields.io/badge/-MongoDB-449a45?style=for-the-badge&logo=MongoDB&logoColor=449a45&labelColor=282828">
-    <img src="https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=PostgreSQL&logoColor=31648c&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Git-f05033?style=for-the-badge&logo=Git&logoColor=f05033&labelColor=282828">
-    <img src="https://img.shields.io/badge/-JAVASCRIPT-fdd734?style=for-the-badge&logo=JavaScript&logoColor=fdd734&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Trello-0065ff?style=for-the-badge&logo=Trello&logoColor=0065ff&labelColor=282828">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=282828">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=282828">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=282828">
+    <img src="https://img.shields.io/badge/-LUMEN-E74430?style=for-the-badge&logo=lumen&logoColor=E74430&labelColor=282828">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=4479A1&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=2496ED&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=DC382D&labelColor=282828">
+    <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=FF6600&labelColor=282828">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=282828">
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=282828">
+    <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=0052CC&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=4FC08D&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82&labelColor=282828">
 </div>
 
 
