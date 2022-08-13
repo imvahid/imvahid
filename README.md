@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=282828">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=2496ED&labelColor=282828">
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=DC382D&labelColor=282828">
+    <img src="https://img.shields.io/badge/-ApacheKafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=fff&labelColor=282828">
     <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=FF6600&labelColor=282828">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=282828">
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&labelColor=282828">
