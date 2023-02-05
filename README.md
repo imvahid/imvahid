@@ -53,7 +53,7 @@
 </p>
 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvahid&theme=merko&hide_border=true&point=68b487)](https://github.com/imvahid/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvahid&theme=merko&hide_border=true&point=68b487&title_color=a0c401)](https://github.com/imvahid/github-readme-activity-graph)
 
 ------
 
