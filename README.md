@@ -45,7 +45,8 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=imvahid&theme=gruvbox&hide_border=true" />
 </p>
 
-![Vahid Ashourzadeh's Activity Graph](https://activity-graph.herokuapp.com/graph?username=imvahid&custom_title=Vahid%20Ashourzadeh's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+[![Vahid Ashourzadeh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvahid&bg_color=282828&theme=merko&line=d1a01f&point=c58545&area=true&hide_border=true)](https://github.com/imvahid/github-readme-activity-graph)
 
 ------
 
