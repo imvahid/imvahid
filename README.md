@@ -3,7 +3,7 @@
 </h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=91b302&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=aad100&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 
@@ -53,7 +53,7 @@
 </p>
 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvahid&theme=merko&hide_border=true&point=68b487&title_color=a0c401&color=68b487&radius=6)](https://github.com/imvahid/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvahid&theme=merko&hide_border=true&point=68b487&title_color=aad100&color=68b487&radius=6)](https://github.com/imvahid/github-readme-activity-graph)
 
 ------
 
