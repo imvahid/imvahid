@@ -40,11 +40,8 @@
 
 ------
 
-<p>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imvahid&show_icons=true&theme=merko)
-    
-    [![GitHub Streak](https://streak-stats.demolab.com?user=imvahid&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imvahid&show_icons=true&theme=merko)
 
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvahid&bg_color=282828&theme=merko&line=d1a01f&point=c58545&area=true&hide_border=true)](https://github.com/imvahid/github-readme-activity-graph)
