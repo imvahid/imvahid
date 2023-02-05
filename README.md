@@ -40,12 +40,17 @@
 
 ------
 
+
+<p>
+    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imvahid&show_icons=true&theme=merko&hide_border=true" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=imvahid&show_icons=true&theme=merko&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=imvahid&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img width="49%" align="center" src="https://streak-stats.demolab.com?user=imvahid&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </a>
+
+</p>
 
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imvahid&theme=merko&hide_border=true)](https://github.com/imvahid/github-readme-activity-graph)
