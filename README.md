@@ -41,7 +41,7 @@
 ------
 
 
-<p align="center">
+<p>
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=imvahid&show_icons=true&theme=merko&hide_border=true&line_height=23.5" />
