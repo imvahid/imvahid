@@ -44,7 +44,7 @@
 <p align="center">
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=imvahid&show_icons=true&theme=merko&hide_border=true&line_height=23.9" />
+  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=imvahid&show_icons=true&theme=merko&hide_border=true&line_height=23.9&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="49.5%" align="center" src="https://streak-stats.demolab.com?user=imvahid&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" />
