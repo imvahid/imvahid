@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=0052CC&labelColor=282828">
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=4FC08D&labelColor=282828">
     <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=00ADD8&labelColor=282828">
 </div>
 
 
