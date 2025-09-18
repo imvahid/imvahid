@@ -63,7 +63,7 @@
 <b>Visitors Count: from 2022-08-04</b>
 
 <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{imvahid}/count.svg" />
+    <img src="https://profile-counter.deno.dev/imvahid/count.svg" alt="Visitor's Count" />
 </p>
 
 </div>
